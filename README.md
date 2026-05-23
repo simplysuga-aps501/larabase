@@ -1,6 +1,6 @@
 #Running notes
 
-php artisan server 
+php artisan serve
 
 or
 
